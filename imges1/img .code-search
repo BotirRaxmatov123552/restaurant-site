@@ -1,0 +1,99 @@
+# Query: img 
+# ContextLines: 1
+
+Результаты: 30 - 1 файл
+
+C:\Users\acer\Desktop\proect restaran\restaurant1.html:
+   27              <div class="header-logo">
+   28:                 <img src="log1.png" alt="">
+   29                  </div>
+
+   37                  <a href="#">
+   38:                     <img class="cartimg" src="cart.png" alt="">
+   39                  </a>
+
+   44                  <div class="phone-img">
+   45:                     <img src="phone222.png" alt="">
+   46                  </div>
+
+   62                  <a href="">
+   63:                 <img src="burger img.png" alt="">
+   64              </a>
+
+   96              <div class="card-image">
+   97:                 <img class="card-img" src="dish.png" alt="">
+   98              </div>
+
+  111              <div class="card-image">
+  112:                 <img class="card-img" src="dish.png" alt="">
+  113              </div>
+
+  124              <div class="card-image">
+  125:                 <img class="card-img" src="dish.png" alt="">
+  126              </div>
+
+  164               <div class="history-images">
+  165:                 <img class="images-2" src="res2.png" alt="">
+  166:                 <img class="images-1" src="res1.png" alt="">
+  167:                 <img class="images-3" src="res3.png" alt="">
+  168               </div>
+
+  211                  <div class="burgers-image">
+  212:                     <img class="pizza" src="pizza lo.png" alt="">
+  213                  </div>
+
+  216                      <div class="burger-item">
+  217:                         <img class="burger" src="ham0.png" alt="">
+  218                          <div class="burger-text">
+
+  222                      <div class="burger-item">
+  223:                         <img class="burger" src="ham0.png" alt="">
+  224                          <div class="burger-text">
+
+  228                      <div class="burger-item">
+  229:                         <img class="burger" src="ham0.png" alt="">
+  230                          <div class="burger-text">
+
+  250              <div class="menu-image">
+  251:                 <img class="menu-img" src="popl3.png" alt="">
+  252                  <!-- <div class="price">
+  253:                 <img class="price-image" src="price.png" alt="">
+  254                  <div class="price-420">
+
+  271              <div class="menu-image">
+  272:                 <img class="menu-img" src="popl3.png" alt="">
+  273                  <!-- <div class="price">
+  274:                 <img class="price-image" src="price.png" alt="">
+  275                  <div class="price-420">
+
+  292              <div class="menu-image">
+  293:                 <img class="menu-img" src="popl3.png" alt="">
+  294                  <!-- <div class="price">
+  295:                 <img class="price-image" src="price.png" alt="">
+  296                  <div class="price-420">
+
+  323              <div class="coment-image">
+  324:        <img src="faceid.png"alt=""class="coment-img">
+  325              </div>
+
+  346                   <div class="galery-up">
+  347:                     <img class="img-gal high" src="tabl.png" alt="">
+  348                     </div>
+  349                   <div class="galery-down">
+  350:                   <img class="img-gal" src="cof.png" alt="">
+  351:                  <img class="img-gal"src="gulash.png" alt="">
+  352                          </div>
+
+  356                  <div class="galery-up">
+  357:                     <img class="img-gal"src="cof.png" alt="">
+  358:                     <img class="img-gal"src="gulash.png" alt="">
+  359                     </div>
+  360                   <div class="galery-down">
+  361:                     <img class="img-gal high"src="tabl.png"  alt="">
+  362                          </div>
+
+  378  <div class="cook-content">
+  379:     <img src="c1.png" class="l1" alt="">
+  380:     <img src="c2.png" class="l1" alt="">
+  381:     <img src="c3.png" class="l1" alt="">
+  382  
